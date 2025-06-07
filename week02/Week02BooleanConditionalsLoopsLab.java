@@ -16,7 +16,7 @@ public class Week02BooleanConditionalsLoopsLab {
 		
 		// 1. Variable Declaration:
 		//		a. Create a variable named age and assign it a value of 14
-
+		int age =14;
 		
 		
 		// 2. Print a Boolean Expression:
