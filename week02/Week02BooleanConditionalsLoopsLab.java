@@ -16,13 +16,17 @@ public class Week02BooleanConditionalsLoopsLab {
 		
 		// 1. Variable Declaration:
 		//		a. Create a variable named age and assign it a value of 14
-		int age =14;
+		int age =14; 
 		
 		
 		// 2. Print a Boolean Expression:
 		//		a. Print the boolean expression age >= 16 to the console and note the results.
+				
+		System.out.println(age >= 16)
+					
 		//		a. Change the value of age to 18 and print again.
-
+        	int age = 18;  // Changed age to 18
+       		System.out.println(age >= 16); // Print expression
 
 		
 		// 3. Can you drive?
@@ -31,7 +35,10 @@ public class Week02BooleanConditionalsLoopsLab {
 		//				ii. "You cannot drive" otherwise
 		//
 		//		a. Change the value of age and rerun to see the result
-	
+		int age = 18;
+		if (age>= 16 ){
+			Sytem.out.println)"You van drive");
+		}
 
 		
 		// 4. Update Solution to Question 3 as follows:
