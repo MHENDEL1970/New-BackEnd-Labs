@@ -15,13 +15,13 @@ public class Week03ArraysAndMethodsLab {
 		//
 		
 		// 1. Create an array with the following values 1, 5, 2, 8, 13, 6
-
+			int[] numbers = {1, 5, 2, 8, 13, 6};
 		
 		// 2. Print out the first element in the array
-	
+			System.out.println(numbers[0]);
 		
 		// 3. Print out the last element in the array without using the number 5
-		
+			System.out.println(numbers[numbers.length - 1]);
 		
 		// 4. Print out the element in the array at position 6, what happens?
 
